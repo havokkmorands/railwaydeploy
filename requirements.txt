@@ -7,7 +7,7 @@ certifi==2022.12.7
 cffi==1.15.1
 charset-normalizer==3.1.0
 cleo==0.7.6
-click==7.1.2
+click==8.0.0
 clikit==0.4.3
 cryptography==40.0.1
 Django==4.2
@@ -31,7 +31,6 @@ pexpect==4.8.0
 pkginfo==1.9.6
 platformdirs==3.2.0
 poetry==1.0.10
-poetry-merge-lock==0.1.1
 ptyprocess==0.7.0
 pyarrow==11.0.0
 pycparser==2.21
